@@ -1,0 +1,112 @@
+/* Title */
+
+h1 {
+  font-family: 'Science Gothic';
+  text-align: center;
+  color:black;
+}
+
+.coloredfirst{
+  color: #0065bd;
+}
+
+/* everything with text*/
+
+p{
+  text-align: center;
+}
+
+.collapseText {
+  font-size: small;
+}
+
+h5 {
+  font-weight: bold;
+}
+
+.nav-link{
+  font-weight: bold;
+  color: black;
+}
+
+.nav-link:hover{
+  text-decoration: underline;
+}
+
+.h5heading{
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: #0065bd;
+  text-decoration-thickness: 4px;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  
+}
+
+h6 {
+  text-align: center;
+  font-weight: bold;
+}
+
+/* buttons */
+
+.btncard {
+  background-color: #0065bd;
+  color: white;
+  align-self: center;
+  width: 100%;
+
+}
+
+.btncard:hover {
+  background-color: skyblue;
+}
+
+/* card image */
+
+.card-img-top {
+  height: 180px; 
+  object-fit: cover;
+}
+
+
+/* seciton style */
+
+.sectionstyle {
+  background-color: #f8f9fa;       
+  padding: 30px;                  
+  border-radius: 15px;            
+  box-shadow: 0px 0px 20px rgba(0,0,0,0.15); 
+  margin-bottom: 50px;   
+  margin-left: 3%;
+  margin-right: 3%; 
+  margin-top: 3% ;    
+
+}
+
+
+/* skills */
+
+i{
+  margin: 5%;
+  color: #0065bd;
+}
+
+/*footer icons*/
+
+.footerIcons:hover {
+  color: skyblue;
+}
+
+/* Intro stuff */
+
+/* Introduction Layout */
+.intro-container {
+  display: flex;
+  align-items: center;
+  gap: 2rem;        /* Abstand zwischen Bild und Text */
+  padding-left: 5%;
+}
+
+
+
